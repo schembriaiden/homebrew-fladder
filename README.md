@@ -90,8 +90,8 @@ brew upgrade fladder
 
 ## Version Information
 
-- **Current Version:** 0.10.1
-- **Release Date:** February 21, 2026
+- **Current Version:** 0.10.2
+- **Release Date:** March 08, 2026
 - **Upstream:** [DonutWare/Fladder](https://github.com/DonutWare/Fladder)
 
 ## Links
